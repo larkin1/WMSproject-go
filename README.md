@@ -1,3 +1,4 @@
+## Perplexity made this 
 # WMS - Go Implementation
 
 Direct port of the Python WMS mockup to Go with Fyne GUI.
